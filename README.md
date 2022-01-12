@@ -9,4 +9,7 @@ Rules for coding
 6. Write comments where needed.
 7. Break a problem into small functions
 8. Look into https://google.github.io/styleguide/cppguide.html link for more info about coding guidelines
+9. Proper naming convention
+10. Runtime check for safety/time critical applications
+
   
