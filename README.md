@@ -11,5 +11,6 @@ Rules for coding
 8. Look into https://google.github.io/styleguide/cppguide.html link for more info about coding guidelines
 9. Proper naming convention
 10. Runtime check for safety/time critical applications
+11. Declaring variables, before use
 
   
